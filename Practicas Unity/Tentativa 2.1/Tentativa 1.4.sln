@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{19A3D840-79F2-E844-9385-7B773BA21FA7}") = "Tentativa 1.4", "Assembly-CSharp.csproj", "{2EFCC73C-B1AC-6723-A87A-02FFDBFE2F67}"
+EndProject
+Project("{19A3D840-79F2-E844-9385-7B773BA21FA7}") = "Tentativa 1.4", "Assembly-CSharp-Editor.csproj", "{3885D005-7209-9E2D-F2DB-FDFC9AD8856B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFCC73C-B1AC-6723-A87A-02FFDBFE2F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFCC73C-B1AC-6723-A87A-02FFDBFE2F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFCC73C-B1AC-6723-A87A-02FFDBFE2F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFCC73C-B1AC-6723-A87A-02FFDBFE2F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3885D005-7209-9E2D-F2DB-FDFC9AD8856B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3885D005-7209-9E2D-F2DB-FDFC9AD8856B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3885D005-7209-9E2D-F2DB-FDFC9AD8856B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3885D005-7209-9E2D-F2DB-FDFC9AD8856B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

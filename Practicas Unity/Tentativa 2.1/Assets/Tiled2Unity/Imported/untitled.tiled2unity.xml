@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 23/02/2017 08:43:22 p. m.-->
+<Tiled2Unity version="1.0.9.7">
+  <AssignMaterial mesh="mesh_0001" material="calle-5" />
+  <Prefab name="untitled" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="300" numTilesHigh="50" tileWidth="20" tileHeight="20" exportScale="1" mapWidthInPixels="6000" mapHeightInPixels="1000" backgroundColor="#808080">
+    <GameObject name="Capa de patrones 2" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="calle-5" copy="mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
+      <GameObject name="Collision">
+        <PolygonCollider2D>
+          <Path>-4,-1003 6284,-1003 6284,-809 -4,-809</Path>
+        </PolygonCollider2D>
+      </GameObject>
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="untitled.obj">IyBXYXZlZnJvbnQgT0JKIGZpbGUgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgYnkgVGlsZWQyVW5pdHkNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0MCkNCnYgMCAtMTAwMCAwDQp2IC03MDAgLTEwMDAgMA0KdiAtNzAwIC01MjAgMA0KdiAwIC01MjAgMA0KdiAtNjIwIC0xMDAwIDANCnYgLTEzMjAgLTEwMDAgMA0KdiAtMTMyMCAtNTIwIDANCnYgLTYyMCAtNTIwIDANCnYgLTEyNDAgLTEwMDAgMA0KdiAtMTk0MCAtMTAwMCAwDQp2IC0xOTQwIC01MjAgMA0KdiAtMTI0MCAtNTIwIDANCnYgLTE4NjAgLTEwMDAgMA0KdiAtMjU2MCAtMTAwMCAwDQp2IC0yNTYwIC01MjAgMA0KdiAtMTg2MCAtNTIwIDANCnYgLTI0ODAgLTEwMDAgMA0KdiAtMzE4MCAtMTAwMCAwDQp2IC0zMTgwIC01MjAgMA0KdiAtMjQ4MCAtNTIwIDANCnYgLTMxMDAgLTEwMDAgMA0KdiAtMzgwMCAtMTAwMCAwDQp2IC0zODAwIC01MjAgMA0KdiAtMzEwMCAtNTIwIDANCnYgLTM3MjAgLTEwMDAgMA0KdiAtNDQyMCAtMTAwMCAwDQp2IC00NDIwIC01MjAgMA0KdiAtMzcyMCAtNTIwIDANCnYgLTQzNDAgLTEwMDAgMA0KdiAtNTA0MCAtMTAwMCAwDQp2IC01MDQwIC01MjAgMA0KdiAtNDM0MCAtNTIwIDANCnYgLTQ5NjAgLTEwMDAgMA0KdiAtNTY2MCAtMTAwMCAwDQp2IC01NjYwIC01MjAgMA0KdiAtNDk2MCAtNTIwIDANCnYgLTU1ODAgLTEwMDAgMA0KdiAtNjI4MCAtMTAwMCAwDQp2IC02MjgwIC01MjAgMA0KdiAtNTU4MCAtNTIwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC4wMDAxMjIwNzAzIDAuMDAwMTIyMDcwMw0KdnQgMC45OTk4Nzc5IDAuMDAwMTIyMDcwMw0KdnQgMC45OTk4Nzc5IDAuOTk5ODc3OQ0KdnQgMC4wMDAxMjIwNzAzIDAuOTk5ODc3OQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgR3JvdXBzIChDb3VudCA9IDEpDQoKZyBtZXNoXzAwMDEKZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDYvMi8xIDcvMy8xIDgvNC8xCmYgOS8xLzEgMTAvMi8xIDExLzMvMSAxMi80LzEKZiAxMy8xLzEgMTQvMi8xIDE1LzMvMSAxNi80LzEKZiAxNy8xLzEgMTgvMi8xIDE5LzMvMSAyMC80LzEKZiAyMS8xLzEgMjIvMi8xIDIzLzMvMSAyNC80LzEKZiAyNS8xLzEgMjYvMi8xIDI3LzMvMSAyOC80LzEKZiAyOS8xLzEgMzAvMi8xIDMxLzMvMSAzMi80LzEKZiAzMy8xLzEgMzQvMi8xIDM1LzMvMSAzNi80LzEKZiAzNy8xLzEgMzgvMi8xIDM5LzMvMSA0MC80LzEKDQo=</ImportMesh>
+  <InternalTexture assetPath="Assets/Sprites/calle-5.png" />
+</Tiled2Unity>

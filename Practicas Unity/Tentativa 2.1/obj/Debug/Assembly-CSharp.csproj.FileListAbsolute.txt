@@ -1,0 +1,58 @@
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Antonio Facundo\Desktop\Tentativa\obj\Debug\Assembly-CSharp.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\obj\Debug\Assembly-CSharp.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Antonio Facundo\Desktop\Tentativa 1.4\obj\Debug\Assembly-CSharp.pdb
